@@ -183,3 +183,18 @@ button:hover {
 }
 
 /* Styling of the footer elements */
+footer {
+  background: linear-gradient(70deg, rgb(24, 24, 24), rgb(25, 29, 29));
+  padding: 53px;
+}
+
+.footer-icon {
+    margin-left: 530px;
+    justify-content: center;
+
+}
+
+footer div a {
+  margin: 0 auto;
+  color: #fff;
+}
